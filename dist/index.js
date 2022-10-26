@@ -1,12 +1,6 @@
 "use strict";
-console.log('Hello TypeScript!');
-let a = 1 + 2;
-let b = a + 3;
-let c = {
-    apple: a,
-    banana: b
-};
-let d = c.apple * 4;
-console.log(d);
-console.log("co con c");
+let a = 100;
+console.log(a);
+a = "cat";
+console.log(a);
 //# sourceMappingURL=index.js.map
