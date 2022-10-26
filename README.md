@@ -1,4 +1,4 @@
 # ts
 
-Menter : Bao Nguyen
+Menter : Bao Nguyen --
 Mentee : Bui Ngoc Thanh
